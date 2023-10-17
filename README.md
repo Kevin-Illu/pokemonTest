@@ -1,4 +1,4 @@
-# Pokemon API
+# Pokemons
 
 ![app](./screenShots/pokemon.png)
 ***
